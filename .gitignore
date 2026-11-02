@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.jpg
+*.jpeg
+*.png
+# keep your real keys out of git if you edit config.py with live values:
+# config_local.py
